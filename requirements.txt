@@ -1,0 +1,1 @@
+streamlit\nmediapipe\nopencv-python\nnumpy\ntensorflow\n
